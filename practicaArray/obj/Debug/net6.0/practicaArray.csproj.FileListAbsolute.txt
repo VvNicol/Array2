@@ -1,0 +1,14 @@
+C:\Users\csi23-nrojlla\Documents\C# proyectos mios\practicaArray\bin\Debug\net6.0\practicaArray.exe
+C:\Users\csi23-nrojlla\Documents\C# proyectos mios\practicaArray\bin\Debug\net6.0\practicaArray.deps.json
+C:\Users\csi23-nrojlla\Documents\C# proyectos mios\practicaArray\bin\Debug\net6.0\practicaArray.runtimeconfig.json
+C:\Users\csi23-nrojlla\Documents\C# proyectos mios\practicaArray\bin\Debug\net6.0\practicaArray.dll
+C:\Users\csi23-nrojlla\Documents\C# proyectos mios\practicaArray\bin\Debug\net6.0\practicaArray.pdb
+C:\Users\csi23-nrojlla\Documents\C# proyectos mios\practicaArray\obj\Debug\net6.0\practicaArray.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\csi23-nrojlla\Documents\C# proyectos mios\practicaArray\obj\Debug\net6.0\practicaArray.AssemblyInfoInputs.cache
+C:\Users\csi23-nrojlla\Documents\C# proyectos mios\practicaArray\obj\Debug\net6.0\practicaArray.AssemblyInfo.cs
+C:\Users\csi23-nrojlla\Documents\C# proyectos mios\practicaArray\obj\Debug\net6.0\practicaArray.csproj.CoreCompileInputs.cache
+C:\Users\csi23-nrojlla\Documents\C# proyectos mios\practicaArray\obj\Debug\net6.0\practicaArray.dll
+C:\Users\csi23-nrojlla\Documents\C# proyectos mios\practicaArray\obj\Debug\net6.0\refint\practicaArray.dll
+C:\Users\csi23-nrojlla\Documents\C# proyectos mios\practicaArray\obj\Debug\net6.0\practicaArray.pdb
+C:\Users\csi23-nrojlla\Documents\C# proyectos mios\practicaArray\obj\Debug\net6.0\practicaArray.genruntimeconfig.cache
+C:\Users\csi23-nrojlla\Documents\C# proyectos mios\practicaArray\obj\Debug\net6.0\ref\practicaArray.dll
